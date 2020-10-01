@@ -27,6 +27,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 
 - [OpenSouceCode/Hacktoberfest2020 ](https://github.com/OpenSouceCode/Hacktoberfest2020)
 - [GhozyMHM](https://github.com/GhozyMHM/Simple-CRUD)
+- [Maria Quitéria ](https://github.com/DadosAbertosDeFeira/maria-quiteria)
 
 # Contribute
 
