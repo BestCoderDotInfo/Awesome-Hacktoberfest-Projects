@@ -15,11 +15,18 @@ Make your first Pull Request and earn a free tee from GitHub!
 - Fork this Repository using the button at the top
 - Clone your forked repository to your pc
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add Awesome Hacktoberfest project in README.md
+- Add Awesome Hacktoberfest project in this `README.md` under headline **Awesome Hacktoberfest Projects Here**. Example:
+   ```
+    - [OpenSouceCode/Hacktoberfest2020 ](https://github.com/OpenSouceCode/Hacktoberfest2020)
+   ```
 - Add your files (`git add -A`), commit (`git commit -m "Add Awesome Hacktoberfest project"`) and push (`git push origin new-user`)
 - Create a pull request
 - Star this repository
 
-# Awesome Hacktoberfest Projects
+# Awesome Hacktoberfest Projects Here
 
 - [OpenSouceCode/Hacktoberfest2020 ](https://github.com/OpenSouceCode/Hacktoberfest2020)
+
+# Contribute
+
+Contributions are always welcome! 
