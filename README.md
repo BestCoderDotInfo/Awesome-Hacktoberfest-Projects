@@ -26,6 +26,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 # Awesome Hacktoberfest Projects Here
 
 - [OpenSouceCode/Hacktoberfest2020 ](https://github.com/OpenSouceCode/Hacktoberfest2020)
+- [Maria Quitéria ](https://github.com/DadosAbertosDeFeira/maria-quiteria)
 
 # Contribute
 
