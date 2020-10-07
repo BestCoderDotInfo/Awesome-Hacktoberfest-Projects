@@ -5,7 +5,6 @@ Make your first Pull Request and earn a free tee from GitHub!
 <p align="center">
    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/BestCoderDotInfo/Awesome-Hacktoberfest-Projects"></a>
-   <img alt="GitHub forks" src="https://img.shields.io/github/issues/BestCoderDotInfo/Awesome-Hacktoberfest-Projects"></a>
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/BestCoderDotInfo/Awesome-Hacktoberfest-Projects"></a>
    <img alt="Github license" src="https://img.shields.io/github/license/BestCoderDotInfo/Awesome-Hacktoberfest-Projects"></a>
 </p>
